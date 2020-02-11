@@ -2,7 +2,6 @@ https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_sshd_2_30d.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
-https://iplists.firehol.org/files/coinbl_ips.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
@@ -29,3 +28,9 @@ https://iplists.firehol.org/files/bambenek_c2.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/greensnow.ipset
+https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/dm_tor.ipset
+https://iplists.firehol.org/files/xroxy_30d.ipset
+https://iplists.firehol.org/files/tor_exits_30d.ipset
+https://iplists.firehol.org/files/sslproxies_30d.ipset
+https://iplists.firehol.org/files/socks_proxy_30d.ipset
