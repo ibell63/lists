@@ -34,3 +34,6 @@ https://iplists.firehol.org/files/xroxy_30d.ipset
 https://iplists.firehol.org/files/tor_exits_30d.ipset
 https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://iplists.firehol.org/files/socks_proxy_30d.ipset
+https://iplists.firehol.org/files/bi_any_0_1d.ipset
+https://iplists.firehol.org/files/bi_any_1_7d.ipset
+https://iplists.firehol.org/files/bi_any_2_30d.ipset
