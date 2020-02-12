@@ -18,7 +18,3 @@ https://iplists.firehol.org/files/socks_proxy_30d.ipset
 https://iplists.firehol.org/files/bi_any_2_7d.ipset
 https://iplists.firehol.org/files/bi_ssh_1_7d.ipset
 https://iplists.firehol.org/files/bi_sshd_1_7d.ipset
-https://iplists.firehol.org/files/blocklist_de_bots.ipset
-https://iplists.firehol.org/files/blocklist_de_ssh.ipset
-https://iplists.firehol.org/files/blocklist_de_strongips.ipset
-https://iplists.firehol.org/files/blocklist_de_bruteforce.ipset
