@@ -9,8 +9,6 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
-https://iplists.firehol.org/files/normshield_high_attack.ipset
-https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/ransomware_online.ipset
 https://iplists.firehol.org/files/ransomware_rw.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
