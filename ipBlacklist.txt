@@ -28,4 +28,3 @@
 193.56.28.103
 107.6.12.135
 210.202.40.35
-# End https://www.us-cert.gov/ncas/current-activity/2020/02/14/north-korean-malicious-cyber-activity 2/14/2020
