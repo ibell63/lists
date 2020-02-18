@@ -9,6 +9,7 @@ https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
+https://iplists.firehol.org/files/bi_any_0_1d.ipset
 https://iplists.firehol.org/files/bi_any_1_7d.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/tor_exits_30d.ipset
