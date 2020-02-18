@@ -17,7 +17,7 @@ https://iplists.firehol.org/files/socks_proxy_30d.ipset
 https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
-https://iplists.firehol.org/files/firehol_abusers_30d.netset
+https://iplists.firehol.org/files/firehol_abusers_1d.netset
 https://iplists.firehol.org/files/proxylists_30d.ipset
 https://iplists.firehol.org/files/proxyrss_30d.ipset
 https://iplists.firehol.org/files/proxz_30d.ipset
