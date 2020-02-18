@@ -194,22 +194,18 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com/
-
 # Contributed by Anudeep <anudeep@protonmail.com>
 # Project home page: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
-
 # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com
 i.cdn.turner.com
 s.cdn.turner.com
 z.cdn.turner.com
 amd.cdn.turner.com
-
 # Amazon Alexa and Amazon Shopping app
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-
 # Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com
 unagi-na.amazon.com
@@ -219,21 +215,16 @@ todo-ta-g7g.amazon.com
 device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
-
 # Amazon AWS (???) - whitelist to make Kryptonite work
 sqs.us-east-1.amazonaws.com
-
 # Bild.de
 acdn.adnxs.com
 cdn1.smartadserver.com
-ec-ns.sascdn.com
-
 # DirectTV Now
 js.maxmind.com
 directvnow.com
 directvapplications.hb.omtrdc.net
 s.zkcdn.net
-
 # Facebook
 creative.ak.fbcdn.net
 external-lhr0-1.xx.fbcdn.net
@@ -268,20 +259,15 @@ edge-mqtt.facebook.com
 6-edge-chat.facebook.com
 edge-chat.facebook.com
 mqtt-mini.facebook.com
-
 # Fix - Images not loading on www.thecut.com
 pixel.nymag.com
-
 # GeForce Experience
 events.gfe.nvidia.com
 gfwsl.geforce.com
-
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 prod.telemetry.ros.rockstargames.com
-
 # Host files
 hosts-file.net
-raw.githubusercontent.com
 v.firebog.net
 hostsfile.org
 someonewhocares.org
@@ -290,35 +276,27 @@ winhelp2002.mvps.org
 sysctl.org
 pgl.yoyo.org
 zeustracker.abuse.ch
-
 # Images not loading on aliexpress.com
 ae01.alicdn.com
-
 # Jackbox.tv
 www.google-analytics.com
 google-analytics.com
 ssl.google-analytics.com
-
 # Lotus talk
 lotustalk.com
 www.lotustalk.com
-
 # National Express, UK (nationalexpress.com/en) - Unable to book journey
 cdns.gigya.com
-
 # Netflix - Domains needed for netlix to work correctly
 api-global.netflix.com
 ichnaea.netflix.com
 appboot.netflix.com
 secure.netflix.com
-
 # Nvidia updates
 ota-downloads.nvidia.com
-
 # Openload - media serving site
 openload.co
 www.openload.co
-
 # Pluto.tv
 images.pluto.tv
 stitcher.pluto.tv
@@ -327,30 +305,21 @@ silo.pluto.tv
 cdn-mobile.api.pluto.tv
 api.pluto.tv
 players.pluto.tv
-
 # Roku HGTV app: Failed to play previous episodes
 dcs-vod.apis.anvato.net
-
 # Roku TNT app: Failed to play videos
-z.cdn.turner.com
 manifest.auditude.com
-
 # Refersion.com (affiliate marketing)
 cdn.refersion.com
 refersion.com
 www.refersion.com
-
 # Roku TV CW and NBC app
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
-redirector.googlevideo.com
-
 # Samsung TV's Amazon Prime Video app
 time.samsungcloudsolution.com
-
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
-
 # SBS Online videos not playing
 www.sbs.com.au
 sbs.com.au
@@ -363,32 +332,25 @@ link.theplatform.com
 e7065.e2.akamaiedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
-
 # Share buttons on websites
 dsms0mj1bbhn4.cloudfront.net
 shareaholic.com
-
 # Sky Go (skygo.sky.de)
 assets.adobedtm.com
-
 # Spotify premium with Denon Heos speakers
 # https://github.com/anudeepND/whitelist/issues/93
 mobile-ap.spotify.com
 apresolve.spotify.com
 upgrade.scdn.com
 market.spotify.com
-spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
-
 # Target's Weekly Ads
 weeklyad.target.com
 m.weeklyad.target.com
 weeklyad.target.com.edgesuite.net
-
 # UK University application website
 # https://github.com/anudeepND/whitelist/issues/30
 track.ucas.com
-
 # URL shorteners
 adf.ly
 www.adf.ly
@@ -399,29 +361,20 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
-
 # Videos not playing on  arstechnica/wired/vogue/newyorker
 # Note: ads before videos may appear after whitelisting this domain
-d2c8v52ll5s99u.cloudfront.net
-
 # Videos not playing on www.jacquielawson.com
 f1.media.brightcove.com
-
 # WatchESPN
 fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
-
 # Xbox Achievements and game stats sync
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-
 # streamelements.com (Blocked by Pi-hole regex)
 stats.streamelements.com
-
 # Begin my whitelist
-
-raw.githubusercontent.com
 prohashing.com
 www.prohashing.com
 litecoinpool.org
@@ -440,14 +393,10 @@ bin.entware.net
 codeload.github.com
 diversion.ch
 fwupdate.asuswrt-merlin.net
-hosts-file.net
 hosts.oisd.nl
 maurerr.github.io
-onedrive.live.com
-pgl.yoyo.org
 pkg.entware-backports.tk
 pkg.entware.net
-someonewhocares.org
 sourceforge.net
 www.asuswrt-merlin.net
 bell.run
@@ -541,8 +490,6 @@ aseventbustest.wellspan.org
 www.wellspan.org
 my.wellspan.org
 directory.wellspan.org
-extns02.wellspan.org
-extns01.wellspan.org
 pct.edu
 k1000.pct.edu
 hmsweb1.pct.edu
@@ -652,7 +599,6 @@ ra3.hrblock.com
 mail3.hrblock.com
 taxes3.hrblock.com
 taxes2.hrblock.com
-taxes1.hrblock.com
 taxes.hrblock.com
 ns3.hrblock.com
 mail14.hrblock.com
@@ -715,50 +661,29 @@ bomgardashboard.hrblock.com
 mrbprd.hrblock.com
 psfsprd.hrblock.com
 supportprd.hrblock.com
-ns3.hrblock.com
-ns5.hrblock.com
-ns6.hrblock.com
-ns4.hrblock.com
 hrblock-com.mail.protection.outlook.com
 myaccount.hrblock.com
 smetrics.hrblock.com
 chat.hrblock.com
-i159asa01.wellspan.org
 crac.wellspan.org
-secureconnect.wellspan.org
 www.systocapi.wellspan.org
 lawsonprod.wellspan.org
-dollar2.wellspan.org
-my.wellspan.org
 view3.wellspan.org
-employeeselfserve.wellspan.org
 systocapi.wellspan.org
-wshaccess.wellspan.org
-events.wellspan.org
-i159asa2.wellspan.org
-epcnparr02.wellspan.org
 www.services.wellspan.org
 www.extscp1.wellspan.org
 wshdragon.wellspan.org
 epcnpblob.wellspan.org
-ingftp1.wellspan.org
-exchcas1.wellspan.org
-csc2.wellspan.org
 www.kapp.wellspan.org
 www.digital.wellspan.org
 www.secureconnect.wellspan.org
-soloweb.wellspan.org
 www.csc2.wellspan.org
 pages.wellspan.org
 hynet.wellspan.org
-physicians.wellspan.org
-hybrid.wellspan.org
-hr.wellspan.org
 axiomapp01.wellspan.org
 www.utilities.wellspan.org
 www.callcapp1.wellspan.org
 www.soloweb.wellspan.org
-courionweb.wellspan.org
 newaccess.wellspan.org
 www.pgpdsk1.wellspan.org
 cssdev.wellspan.org
@@ -767,57 +692,35 @@ lbiprod.wellspan.org
 view1.wellspan.org
 www.dcim.wellspan.org
 msoaccess.wellspan.org
-portals.wellspan.org
-iobserver.wellspan.org
 viewcon7.wellspan.org
-continuingcare.wellspan.org
-dmta1.email1.wellspan.org
-clairvia.wellspan.org
 wsprod.wellspan.org
 vdi.wellspan.org
 i159asa4.wellspan.org
 com.era.wellspan.org
-isystoc.wellspan.org
 viewsec1.wellspan.org
-projectone.wellspan.org
 www.isystoc.wellspan.org
-services.wellspan.org
-adfs.wellspan.org
 crnpwd1.wellspan.org
 i159acano1.acano.wellspan.org
 gslb.pphosted.com.era.wellspan.org
-extscp2.wellspan.org
 mxb-001bc501.gslb.pphosted.com.era.wellspan.org
 dollar1.wellspan.org
 cvpacs.wellspan.org
-careblog.wellspan.org
-aseventbustest.wellspan.org
-directory.wellspan.org
 www.webmail.wellspan.org
-support.wellspan.org
 www.directory.wellspan.org
 callcapp1.wellspan.org
 xdasfmso2.wellspan.org
-i159asa1.wellspan.org
 epcnpblob02.wellspan.org
-mhcprodweb.wellspan.org
 www.events.wellspan.org
-exchcas2.wellspan.org
-aas.wellspan.org
 crnac1.wellspan.org
 www.schedulingonline.wellspan.org
-era.wellspan.org
 kapp.wellspan.org
 www.access.wellspan.org
 viewcon6.wellspan.org
 www.pages.wellspan.org
 lawsontest.wellspan.org
 www.login.wellspan.org
-schedulingonline.wellspan.org
-careeverywhere.wellspan.org
 admin.wellspan.org
 www.newaccess.wellspan.org
-www.wellspan.org
 join.acano.wellspan.org
 www.dashboard.wellspan.org
 wslmknp.wellspan.org
@@ -825,67 +728,46 @@ acano.wellspan.org
 epcnpblob01.wellspan.org
 viewcon8.wellspan.org
 digital.wellspan.org
-iresponse.wellspan.org
-mta1.email1.wellspan.org
 dcim.wellspan.org
 www.clairvia.wellspan.org
 extscp.wellspan.org
-scpclaims.wellspan.org
 viewcon2.wellspan.org
 www.vpnaccess.wellspan.org
 cagtest.wellspan.org
-utilities.wellspan.org
 cactus.wellspan.org
 pphosted.com.era.wellspan.org
-epcnparr01.wellspan.org
-hxd1.wellspan.org
 csstest.wellspan.org
-crntest1.wellspan.org
 www.tap2chart.wellspan.org
 wstest.wellspan.org
-dashboard.wellspan.org
 tap2chart.wellspan.org
 www.my.wellspan.org
 www.hynet.wellspan.org
 www.wshdragon.wellspan.org
-extscp1.wellspan.org
 callbridge1.acano.wellspan.org
 lbitest.wellspan.org
-vpnaccess.wellspan.org
 www.vdi.wellspan.org
 email1.wellspan.org
-aseventbusprod.wellspan.org
-carelink.wellspan.org
-wshibx01.wellspan.org
 www.view1.wellspan.org
 www.axiomapp01.wellspan.org
 i159acano1.wellspan.org
-access.wellspan.org
 viewcon1.wellspan.org
 www.aseventbustest.wellspan.org
 autodiscover.wellspan.org
 www.adfs.wellspan.org
 wslmkpd.wellspan.org
-login.wellspan.org
-extns02.wellspan.org
 www.physicians.wellspan.org
 www.wel.wellspan.org
 www.extscp.wellspan.org
 css.wellspan.org
 webmail.wellspan.org
-auth.wellspan.org
 www.era.wellspan.org
 xdasfmso1.wellspan.org
 mxa-001bc501.gslb.pphosted.com.era.wellspan.org
 pgpdsk1.wellspan.org
-remweb2.wellspan.org
 www.portals.wellspan.org
-extns01.wellspan.org
-crncomp1.wellspan.org
 www.ingftp1.wellspan.org
 viewsec2.wellspan.org
 www.hr.wellspan.org
-content.wellspan.org
 www.remweb2.wellspan.org
 msouza.wellspan.org
 www.content.wellspan.org
