@@ -1,5 +1,4 @@
 # start Anudeeps curated whitelist
-
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -374,6 +373,7 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 # streamelements.com (Blocked by Pi-hole regex)
 stats.streamelements.com
+
 # Begin my whitelist
 prohashing.com
 www.prohashing.com
@@ -989,6 +989,10 @@ b.canaryis.com
 canaryis.com
 canary.is
 feed.flightradar24.com
+amazon.ae
+mobile.audible.com
+graph.instagram.com
+google-analytics.com
 *.wellspan.org
 *.hrblock.com
 *.netflix.com
