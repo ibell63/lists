@@ -852,8 +852,6 @@ dmzns02.hrblock.com
 starweb.hrblock.com
 leap.hrblock.com
 pc.taxes.hrblock.com
-system217.hrblock.com
-system100.hrblock.com
 mta6.sendtax.hrblock.com
 liveservices1.hrblock.com
 tcxscalepts.hrblock.com
@@ -886,7 +884,6 @@ mail6.retail.hrblock.com
 system228.hrblock.com
 es.hrblock.com
 taxproadmin.hrblock.com
-system192.hrblock.com
 www.proadmin.hrblock.com
 help.hrblock.com
 supportchat.hrblock.com
@@ -905,11 +902,9 @@ star-reports.hrblock.com
 tstview.hrblock.com
 pc.a1lnptaxes.hrblock.com
 resolve.hrblock.com
-system210.hrblock.com
 lnpdbw.hrblock.com
 legacy.hrblock.com
 traininglive.hrblock.com
-system234.hrblock.com
 supportoffice.hrblock.com
 lnpiam.hrblock.com
 rs-web2.hrblock.com
@@ -921,7 +916,6 @@ lnpkana.hrblock.com
 n6.hrblock.com
 aw.hrblock.com
 fsv.hrblock.com
-system185.hrblock.com
 iamtest.hrblock.com
 sendtax.hrblock.com
 user99.hrblock.com
@@ -940,6 +934,9 @@ dridp.hrblock.com
 a1spscaletest.hrblock.com
 api.hrblock.com
 idpstaging.hrblock.com
+# FP on https://github.com/davidonzo/Threat-Intel/blob/master/lists/latestdomains.txt
+cdn.discordapp.com
+# End FP
 api.smartthings.com
 b.canaryis.com
 canaryis.com
