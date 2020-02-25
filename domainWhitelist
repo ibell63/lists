@@ -966,7 +966,7 @@ goodreads.com
 www.goodreads.com
 nextdns.io
 dl.dropbox.com
-slushpool.com
+hub.miningpoolhub.com
 *.wellspan.org
 *.hrblock.com
 *.netflix.com
@@ -976,3 +976,10 @@ slushpool.com
 *.philhaven.lcl
 *.summithealth.org
 *.goodreads.com
+*.slushpool.com
+*.prohashing.com
+*.litecoinpool.org
+*.miningpoolhub.com
+*.cryptoguru.org
+*.grcpool.com
+*.firehol.org
