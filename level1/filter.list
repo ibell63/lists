@@ -3,7 +3,6 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/cidr_report_bogons.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/firehol_level2.netset
-https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
