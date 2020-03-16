@@ -15,9 +15,6 @@ https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://iplists.firehol.org/files/xroxy_7d.ipset
 https://iplists.firehol.org/files/socks_proxy_7d.ipset
 https://iplists.firehol.org/files/sslproxies_7d.ipset
-https://iplists.firehol.org/files/proxylists_7d.ipset
-https://iplists.firehol.org/files/proxyrss_7d.ipset
-https://iplists.firehol.org/files/proxz_7d.ipset
 https://iplists.firehol.org/files/xforce_bccs.ipset
 https://infosec.cert-pa.it/analyze/listip.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
