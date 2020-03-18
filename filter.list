@@ -16,6 +16,7 @@ https://iplists.firehol.org/files/xroxy_7d.ipset
 https://iplists.firehol.org/files/socks_proxy_7d.ipset
 https://iplists.firehol.org/files/sslproxies_7d.ipset
 https://iplists.firehol.org/files/xforce_bccs.ipset
+https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://infosec.cert-pa.it/analyze/listip.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
