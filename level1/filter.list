@@ -11,7 +11,7 @@ https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://iplists.firehol.org/files/bi_any_2_7d.ipset
-https://iplists.firehol.org/files/tor_exits_1d.ipset
+https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://iplists.firehol.org/files/xforce_bccs.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://infosec.cert-pa.it/analyze/listip.txt
