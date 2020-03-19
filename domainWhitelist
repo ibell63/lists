@@ -885,27 +885,6 @@ bank.hrblock.com
 planning.hrblock.com
 hixevtest.hrblock.com
 efile.hrblock.com
-lnpkana.hrblock.com
-n6.hrblock.com
-aw.hrblock.com
-fsv.hrblock.com
-iamtest.hrblock.com
-sendtax.hrblock.com
-your.hrblock.com
-dnssupport.hrblock.com
-hrbliferay.hrblock.com
-mail1.email.hrblock.com
-eaprint.hrblock.com
-prodsupportwebcopyuser.hrblock.com
-taxidentityshield.hrblock.com
-am.training.hrblock.com
-seg.hrblock.com
-ivrinvestoradmin.hrblock.com
-investoradmin.hrblock.com
-dridp.hrblock.com
-a1spscaletest.hrblock.com
-api.hrblock.com
-idpstaging.hrblock.com
 # FP on https://github.com/davidonzo/Threat-Intel/blob/master/lists/latestdomains.txt
 cdn.discordapp.com
 # End FP
@@ -944,6 +923,22 @@ pastebin.com
 www.pastebin.com
 ipapi.co
 ipinfo.io
+us.pool.ntp.org
+0.us.pool.ntp.org
+1.us.pool.ntp.org
+2.us.pool.ntp.org
+3.us.pool.ntp.org
+north-america.pool.ntp.org
+0.north-america.pool.ntp.org
+1.north-america.pool.ntp.org
+2.north-america.pool.ntp.org
+3.north-america.pool.ntp.org
+pool.ntp.org
+0.pool.ntp.org
+1.pool.ntp.org
+2.pool.ntp.org
+3.pool.ntp.org
+iplists.firehol.org
 #Dshield approved whitelist
 baidu.com
 ce5.at
@@ -975,6 +970,7 @@ www.rcollard.com
 www.userbenchmark.com
 youtu.be
 # End Dshield whitelist
+*.ntp.org
 *.pct.edu
 *.wellspan.org
 *.hrblock.com
