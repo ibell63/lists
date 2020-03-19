@@ -873,7 +873,6 @@ maintenance.hrblock.com
 zcsproxy.hrblock.com
 star-reports.hrblock.com
 tstview.hrblock.com
-pc.a1lnptaxes.hrblock.com
 resolve.hrblock.com
 lnpdbw.hrblock.com
 legacy.hrblock.com
@@ -883,7 +882,6 @@ lnpiam.hrblock.com
 rs-web2.hrblock.com
 bank.hrblock.com
 planning.hrblock.com
-hixevtest.hrblock.com
 efile.hrblock.com
 # FP on https://github.com/davidonzo/Threat-Intel/blob/master/lists/latestdomains.txt
 cdn.discordapp.com
@@ -943,6 +941,11 @@ debian.pool.ntp.org
 1.debian.pool.ntp.org
 2.debian.pool.ntp.org
 3.debian.pool.ntp.org
+time.google.com
+time1.google.com
+time2.google.com
+time3.google.com
+time4.google.com
 #Dshield approved whitelist
 baidu.com
 ce5.at
