@@ -17,10 +17,10 @@ https://iplists.firehol.org/files/xroxy_1d.ipset
 https://iplists.firehol.org/files/socks_proxy_1d.ipset
 https://iplists.firehol.org/files/sslproxies_1d.ipset
 https://iplists.firehol.org/files/xforce_bccs.ipset
-https://infosec.cert-pa.it/analyze/listip.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
-https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
+https://infosec.cert-pa.it/analyze/listip.txt
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
 https://www.badips.com/get/list/any/1?age=1d
+https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
