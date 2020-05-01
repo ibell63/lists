@@ -13,10 +13,10 @@ https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/bi_any_1_7d.ipset
-https://iplists.firehol.org/files/tor_exits_1d.ipset
-https://iplists.firehol.org/files/xroxy_1d.ipset
-https://iplists.firehol.org/files/socks_proxy_1d.ipset
-https://iplists.firehol.org/files/sslproxies_1d.ipset
+https://iplists.firehol.org/files/tor_exits_7d.ipset
+https://iplists.firehol.org/files/xroxy_7d.ipset
+https://iplists.firehol.org/files/socks_proxy_7d.ipset
+https://iplists.firehol.org/files/sslproxies_7d.ipset
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
