@@ -1,2 +1,5 @@
 # https://www.us-cert[.]gov/ncas/alerts/aa20-099a
 216.170.123.111
+# https://www.us-cert[.]gov/ncas/current-activity/2020/05/12/north-korean-malicious-cyber-activity
+211.192.239.232
+112.217.108.138
