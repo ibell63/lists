@@ -14,7 +14,7 @@ https://iplists.firehol.org/files/vxvault.ipset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
-https://iplists.firehol.org/files/blocklist_net_ua.ipset
+# https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
