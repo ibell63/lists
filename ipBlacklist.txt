@@ -1,5 +1,13 @@
-# https://www.us-cert[.]gov/ncas/alerts/aa20-099a
-216.170.123.111
-# https://www.us-cert[.]gov/ncas/current-activity/2020/05/12/north-korean-malicious-cyber-activity
-211.192.239.232
-112.217.108.138
+# https://us-cert.cisa.gov/ncas/alerts/aa20-296a
+213.74.101.65
+213.74.139.196
+212.252.30.170
+5.196.167.184
+37.139.7.16
+149.56.20.55
+91.227.68.97
+138.201.186.43
+5.45.119.124
+193.37.212.43
+146.0.77.60
+51.159.28.101
