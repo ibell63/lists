@@ -17,7 +17,7 @@ https://iplists.firehol.org/files/bds_atif.ipset
 # https://iplists.firehol.org/files/blocklist_net_ua.ipset
 # https://iplists.firehol.org/files/et_block.netset
 # https://iplists.firehol.org/files/et_compromised.ipset
-https://iplists.firehol.org/files/turris_greylist.ipset
+# https://iplists.firehol.org/files/turris_greylist.ipset
 # https://iplists.firehol.org/files/bi_any_2_7d.ipset
 # https://iplists.firehol.org/files/tor_exits_1d.ipset
 https://iplists.firehol.org/files/tor_exits.ipset
