@@ -3,7 +3,7 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/cidr_report_bogons.netset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://iplists.firehol.org/files/firehol_level2.netset
+# https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/dshield_7d.netset
