@@ -3,8 +3,10 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/cidr_report_bogons.netset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
+https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/tor_exits.ipset
