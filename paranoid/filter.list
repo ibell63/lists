@@ -1,5 +1,5 @@
-# replaced https://iplists.firehol.org/files/spamhaus_drop.netset
-# replaced https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://iplists.firehol.org/files/spamhaus_drop.netset
+https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/cidr_report_bogons.netset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
@@ -29,7 +29,5 @@ https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://infosec.cert-pa.it/analyze/listip.txt
 https://www.binarydefense.com/banlist.txt
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
-https://www.spamhaus.org/drop/drop.txt
-https://www.spamhaus.org/drop/edrop.txt
 # https://www.badips.com/get/list/any/1?age=1d
 # https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
