@@ -1,5 +1,5 @@
-# https://iplists.firehol.org/files/spamhaus_drop.netset
-# https://iplists.firehol.org/files/spamhaus_edrop.netset
+#! https://iplists.firehol.org/files/spamhaus_drop.netset
+#! https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/cidr_report_bogons.netset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
@@ -11,7 +11,7 @@ https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
-# https://iplists.firehol.org/files/bds_atif.ipset
+#! https://iplists.firehol.org/files/bds_atif.ipset
 # https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 # https://iplists.firehol.org/files/blocklist_net_ua.ipset
 # https://iplists.firehol.org/files/et_block.netset
