@@ -5,7 +5,7 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 # https://iplists.firehol.org/files/firehol_level2.netset
 # https://iplists.firehol.org/files/bruteforceblocker.ipset
-https://iplists.firehol.org/files/ciarmy.ipset
+# replaced https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
@@ -30,5 +30,6 @@ https://infosec.cert-pa.it/analyze/listip.txt
 https://www.binarydefense.com/banlist.txt
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
 https://www.cidr-report.org/bogons/freespace-prefix.txt
+https://cinsscore.com/list/ci-badguys.txt
 # https://www.badips.com/get/list/any/1?age=1d
 # https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
