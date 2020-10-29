@@ -10,6 +10,5 @@ https://www.binarydefense.com/banlist.txt
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://infosec.cert-pa.it/analyze/listip.txt
-https://iplists.firehol.org/files/dshield.netset
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://iplists.firehol.org/files/tor_exits.ipset
