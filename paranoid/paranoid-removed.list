@@ -15,6 +15,7 @@
 # https://iplists.firehol.org/files/sslproxies_1d.ipset
 # https://www.badips.com/get/list/any/1?age=1d
 # https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
+https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://cinsscore.com/list/ci-badguys.txt
 https://iplists.firehol.org/files/turris_greylist.ipset
