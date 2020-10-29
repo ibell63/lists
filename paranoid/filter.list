@@ -10,7 +10,7 @@ https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
-https://iplists.firehol.org/files/alienvault_reputation.ipset
+# replaced https://iplists.firehol.org/files/alienvault_reputation.ipset
 # replaced https://iplists.firehol.org/files/bds_atif.ipset
 # https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 # https://iplists.firehol.org/files/blocklist_net_ua.ipset
@@ -31,5 +31,6 @@ https://www.binarydefense.com/banlist.txt
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://cinsscore.com/list/ci-badguys.txt
+https://reputation.alienvault.com/reputation.generic
 # https://www.badips.com/get/list/any/1?age=1d
 # https://zonefiles.io/f/compromised/ip/live/compromised_ip_live.txt
