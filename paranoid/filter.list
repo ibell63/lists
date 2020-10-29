@@ -1,11 +1,11 @@
-https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://iplists.firehol.org/files/tor_exits.ipset
+https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://cinsscore.com/list/ci-badguys.txt
-https://infosec.cert-pa.it/analyze/listip.txt
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dshield_top_1000.ipset
+https://infosec.cert-pa.it/analyze/listip.txt
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://www.binarydefense.com/banlist.txt
