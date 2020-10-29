@@ -14,6 +14,5 @@ https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://cinsscore.com/list/ci-badguys.txt
 https://iplists.firehol.org/files/turris_greylist.ipset
-https://reputation.alienvault.com/reputation.generic
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://iplists.firehol.org/files/tor_exits.ipset
