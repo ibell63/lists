@@ -8,3 +8,5 @@ https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
 https://www.badips.com/get/list/any/1?age=3d
 https://iplists.firehol.org/files/xforce_bccs.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+# https://www.binarydefense.com/banlist.txt
+# https://cinsscore.com/list/ci-badguys.txt
