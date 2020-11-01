@@ -12,8 +12,3 @@ https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://infosec.cert-pa.it/analyze/listip.txt
 https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/tor_exits.ipset
-https://www.binarydefense.com/banlist.txt
-https://cinsscore.com/list/ci-badguys.txt
-https://iplists.firehol.org/files/turris_greylist.ipset
-https://iplists.firehol.org/files/dshield_top_1000.ipset
-https://iplists.firehol.org/files/dshield.netset
