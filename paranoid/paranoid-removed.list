@@ -18,6 +18,6 @@
 https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/dshield_top_1000.ipset
 https://cinsscore.com/list/ci-badguys.txt
-https://iplists.firehol.org/files/turris_greylist.ipset
 https://iplists.firehol.org/files/dshield.netset
 # removed 11-9-2020 https://iplists.firehol.org/files/snort_ipfilter.ipset
+https://iplists.firehol.org/files/turris_greylist.ipset
