@@ -21,3 +21,4 @@ https://iplists.firehol.org/files/dshield.netset
 # removed 11-9-2020 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://iplists.firehol.org/files/dshield_top_1000.ipset
+https://threatintel.stdominics.sa.edu.au/droplist_high_confidence.txt
