@@ -1,3 +1,5 @@
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://iplists.firehol.org/files/dshield_top_1000.ipset
+# lists previously removed above this line.  Lists removed on 2/11/2021 below.
+https://iplists.firehol.org/files/talosintel_ipfilter.ipset
