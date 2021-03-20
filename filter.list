@@ -3,7 +3,7 @@ https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://www.botvrij.eu/data/ioclist.ip-dst.raw
+https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
@@ -15,3 +15,8 @@ https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://iplists.firehol.org/files/dshield.netset
+https://blocklist.greensnow.co/greensnow.txt
+https://lists.blocklist.de/lists/all.txt
+https://iplists.firehol.org/files/socks_proxy_1d.ipset
+https://iplists.firehol.org/files/sslproxies_1d.ipset
+https://iplists.firehol.org/files/xroxy_1d.ipset
