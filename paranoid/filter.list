@@ -17,3 +17,6 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://iplists.firehol.org/files/dshield.netset
 https://blocklist.greensnow.co/greensnow.txt
 https://lists.blocklist.de/lists/all.txt
+https://iplists.firehol.org/files/socks_proxy_1d.ipset
+https://iplists.firehol.org/files/sslproxies_1d.ipset
+https://iplists.firehol.org/files/xroxy_1d.ipset
