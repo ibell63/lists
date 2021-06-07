@@ -15,3 +15,6 @@ https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/tor_exits.ipset
 https://reputation.alienvault.com/reputation.generic
+https://iplists.firehol.org/files/dshield.netset
+https://blocklist.greensnow.co/greensnow.txt
+https://lists.blocklist.de/lists/all.txt
