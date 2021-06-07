@@ -14,3 +14,4 @@ https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/tor_exits.ipset
+https://reputation.alienvault.com/reputation.generic
