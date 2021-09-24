@@ -12,4 +12,4 @@ https://infosec.cert-pa.it/analyze/listip.txt
 https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
-https://iplists.firehol.org/files/tor_exits.ipset
+https://iplists.firehol.org/files/tor_exits_1d.ipset
