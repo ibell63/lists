@@ -7,7 +7,7 @@ https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://iplists.firehol.org/files/cidr_report_bogons.netset
+https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://infosec.cert-pa.it/analyze/listip.txt
 https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/tor_exits_30d.ipset
