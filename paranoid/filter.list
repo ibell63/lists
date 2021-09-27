@@ -13,6 +13,7 @@ https://reputation.alienvault.com/reputation.generic
 https://iplists.firehol.org/files/tor_exits_30d.ipset
 https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
+https://iplists.firehol.org/files/et_block.netset
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://iplists.firehol.org/files/dshield.netset
 https://blocklist.greensnow.co/greensnow.txt
