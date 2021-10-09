@@ -10,7 +10,7 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://infosec.cert-pa.it/analyze/listip.txt
 https://reputation.alienvault.com/reputation.generic
-https://iplists.firehol.org/files/tor_exits_30d.ipset
+https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://www.dan.me.uk/torlist/?exit
 https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
