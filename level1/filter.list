@@ -13,7 +13,7 @@ https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
-https://iplists.firehol.org/files/tor_exits_30d.ipset
+https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://iplists.firehol.org/files/dshield_30d.netset
 https://blocklist.greensnow.co/greensnow.txt
 https://lists.blocklist.de/lists/all.txt
