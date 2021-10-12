@@ -24,5 +24,5 @@ https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
 https://report.rutgers.edu/DROP/attackers
-https://www.dan.me.uk/torlist/?exit
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
+https://www.dan.me.uk/torlist/?exit
