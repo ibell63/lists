@@ -10,7 +10,6 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://infosec.cert-pa.it/analyze/listip.txt
 https://reputation.alienvault.com/reputation.generic
-https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
@@ -25,4 +24,6 @@ https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
 https://report.rutgers.edu/DROP/attackers
+https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
+https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://www.dan.me.uk/torlist/?exit
