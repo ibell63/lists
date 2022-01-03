@@ -22,7 +22,7 @@ https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://iplists.firehol.org/files/xroxy_30d.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/turris_greylist.ipset
-https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
 https://report.rutgers.edu/DROP/attackers
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://www.dan.me.uk/torlist/?exit
