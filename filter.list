@@ -23,8 +23,4 @@ https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://iplists.firehol.org/files/xroxy_30d.ipset
 https://report.rutgers.edu/DROP/attackers
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
-https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
-https://www.dan.me.uk/torlist/?exit
-https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-nodes.lst
 https://iplists.firehol.org/files/dm_tor.ipset
-https://iplists.firehol.org/files/et_tor.ipset
