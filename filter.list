@@ -28,4 +28,5 @@ https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/iblocklist_onion_router.netset
 https://iplists.firehol.org/files/botscout_30d.ipset
 https://iplists.firehol.org/files/cleantalk_30d.ipset
+https://iplists.firehol.org/files/stopforumspam_30d.ipset
 https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
