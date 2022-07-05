@@ -26,7 +26,3 @@ https://iplists.firehol.org/files/iblocklist_onion_router.netset
 https://iplists.firehol.org/files/socks_proxy_30d.ipset
 https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://iplists.firehol.org/files/xroxy_30d.ipset
-https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
-https://iplists.firehol.org/files/botscout_30d.ipset
-https://iplists.firehol.org/files/cleantalk_30d.ipset
-https://iplists.firehol.org/files/stopforumspam_90d.ipset
