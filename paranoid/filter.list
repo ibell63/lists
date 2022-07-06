@@ -8,7 +8,6 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
-https://infosec.cert-pa.it/analyze/listip.txt
 https://reputation.alienvault.com/reputation.generic
 https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
