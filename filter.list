@@ -6,7 +6,6 @@ https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://www.cidr-report.org/bogons/freespace-prefix.txt
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
 https://reputation.alienvault.com/reputation.generic
 https://www.binarydefense.com/banlist.txt
