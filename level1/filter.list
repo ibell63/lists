@@ -2,7 +2,6 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
@@ -15,4 +14,3 @@ https://report.rutgers.edu/DROP/attackers
 https://raw.githubusercontent.com/ibell63/lists/master/ipBlacklist.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://check.torproject.org/torbulkexitlist
-https://iplists.firehol.org/files/vxvault.ipset
