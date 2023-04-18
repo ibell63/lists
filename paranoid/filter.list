@@ -1,7 +1,6 @@
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
