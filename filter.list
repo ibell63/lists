@@ -17,4 +17,4 @@ https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/socks_proxy_30d.ipset
 https://iplists.firehol.org/files/sslproxies_30d.ipset
 https://check.torproject.org/torbulkexitlist
-https://iplists.firehol.org/files/vxvault.ipset
+https://iplists.firehol.org/files/tor_exits_30d.ipset
