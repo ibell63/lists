@@ -12,3 +12,4 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://report.rutgers.edu/DROP/attackers
 https://check.torproject.org/torbulkexitlist
+https://iplists.firehol.org/files/tor_exits_30d.ipset
