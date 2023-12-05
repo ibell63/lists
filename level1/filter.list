@@ -8,7 +8,6 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
 https://www.binarydefense.com/banlist.txt
-https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://check.torproject.org/torbulkexitlist
