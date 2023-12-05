@@ -5,6 +5,8 @@ https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://www.binarydefense.com/banlist.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://check.torproject.org/torbulkexitlist
 https://iplists.firehol.org/files/tor_exits_7d.ipset
