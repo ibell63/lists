@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
@@ -10,6 +11,5 @@ https://www.binarydefense.com/banlist.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
-https://report.rutgers.edu/DROP/attackers
 https://check.torproject.org/torbulkexitlist
 https://iplists.firehol.org/files/tor_exits_30d.ipset
