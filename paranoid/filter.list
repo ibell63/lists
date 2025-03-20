@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://iplists.firehol.org/files/spamhaus_drop.netset
+https://feeds.dshield.org/feeds/top10.txt
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://iplists.firehol.org/files/tor_exits_7d.ipset
