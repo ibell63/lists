@@ -21,7 +21,7 @@ jobs:
 
       - name: Download Majestic Million
         run: |
-          curl -L "https://tranco-list.eu/top-1m.csv" -o majestic.csv
+          curl -L "https://tranco-list.eu/top-1m.csv" -o tranco.csv
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,15 +30,15 @@ jobs:
 
       - name: Run filter
         run: |
-          python3 filter.py tif.txt nrd7.txt dga30.txt majestic.csv filtered.txt
+          python3 filter.py tif.txt nrd7.txt dga30.txt tranco.csv filtered.txt
 
       - name: Commit results
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          mv filtered.txt combined-hagezi-minus-majestic.txt
-          git add combined-hagezi-minus-majestic.txt
+          mv filtered.txt combined-hagezi-minus-tranco.txt
+          git add combined-hagezi-minus-tranco.txt
 
           git commit -m "Update combined filtered Hagezi list" || echo "No changes"
           git push
