@@ -21,7 +21,7 @@ jobs:
 
       - name: Download Majestic Million
         run: |
-          curl -L "https://majestic.com/docs/majestic_million.csv" -o majestic.csv
+          curl -L "https://tranco-list.eu/top-1m.csv" -o majestic.csv
 
       - name: Set up Python
         uses: actions/setup-python@v5
