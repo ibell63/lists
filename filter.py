@@ -13,7 +13,7 @@ with open(tranco_csv, newline="") as f:
     reader = csv.reader(f)
     next(reader)  # skip header
     for row in reader:
-        domain = row[2].strip().lower()
+        domain = row[1].strip().lower()
         tranco.add(domain)
 
 # Load and combine Hagezi lists
