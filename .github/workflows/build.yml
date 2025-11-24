@@ -31,7 +31,7 @@ jobs:
 
       - name: Run filter
         run: |
-          python3 filter.py tif.txt nrd7.txt dga30.txt tranco.csv filtered.txt
+          python3 filter.py tif.txt nrd7.txt dga30.txt top-1m.csv filtered.txt
 
       - name: Commit results
         run: |
