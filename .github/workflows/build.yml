@@ -2,7 +2,7 @@ name: Build Combined Hagezi List Minus Majestic Million
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours (adjust as you like)
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 jobs:
