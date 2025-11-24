@@ -21,7 +21,7 @@ jobs:
 
       - name: Download Majestic Million
         run: |
-          curl -L "https://tranco-list.eu/top-1m.csv.zip" -o tranco.zip
+          curl -L "https://tranco-list.eu/top-1m-incl-subdomains.csv.zip" -o tranco.zip
           unzip tranco.zip -d .
 
       - name: Set up Python
