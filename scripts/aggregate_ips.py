@@ -27,9 +27,10 @@ SOURCES = [
     "https://iplists.firehol.org/files/ciarmy.ipset",
     "https://iplists.firehol.org/files/spamhaus_drop.netset",
     "https://iplists.firehol.org/files/et_block.netset",
-    "https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/1.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/2.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/3.txt"
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
     # add more here
 ]
 
