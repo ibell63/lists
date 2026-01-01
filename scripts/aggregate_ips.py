@@ -10,8 +10,29 @@ from pathlib import Path
 # =========================
 
 SOURCES = [
-    "https://example.com/list1.txt",
-    "https://example.com/list2.txt",
+    "https://iplists.firehol.org/files/tor_exits_30d.ipset",
+    "https://iplists.firehol.org/files/socks_proxy_30d.ipset",
+    "https://iplists.firehol.org/files/sslproxies_30d.ipset",
+    "https://iplists.firehol.org/files/botscout_30d.ipset",
+    "https://iplists.firehol.org/files/sblam.ipset",
+    "https://iplists.firehol.org/files/stopforumspam_365d.ipset",
+    "https://iplists.firehol.org/files/stopforumspam_1d.ipset",
+    "https://iplists.firehol.org/files/blocklist_de.ipset",
+    "https://iplists.firehol.org/files/blocklist_de_strongips.ipset",
+    "https://iplists.firehol.org/files/bruteforceblocker.ipset",
+    "https://iplists.firehol.org/files/dshield_30d.netset",
+    "https://iplists.firehol.org/files/et_compromised.ipset",
+    "https://iplists.firehol.org/files/greensnow.ipset",
+    "https://iplists.firehol.org/files/bds_atif.ipset",
+    "https://iplists.firehol.org/files/ciarmy.ipset",
+    "https://iplists.firehol.org/files/spamhaus_drop.netset",
+    "https://iplists.firehol.org/files/et_block.netset",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt"
     # add more sources here
 ]
 
