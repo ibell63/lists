@@ -30,7 +30,9 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt"
     # add more here
 ]
 
