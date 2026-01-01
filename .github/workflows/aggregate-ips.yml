@@ -3,7 +3,7 @@ name: Aggregate IP Lists
 on:
   workflow_dispatch:
   schedule:
-    - cron: "37 12 * * *"
+    - cron: "37 14 * * *"
 
 jobs:
   aggregate:
