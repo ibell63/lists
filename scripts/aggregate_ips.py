@@ -39,7 +39,7 @@ SOURCES = [
 
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 10  # number of /24s in a /16 required to promote
+PROMOTE_THRESHOLD = 25  # number of /24s in a /16 required to promote
 
 # =========================
 # FETCH + PARSE
