@@ -119,19 +119,20 @@ def main():
 
     lines = []
 
-    for net16, count in sorted_16s:
+    # /16s first
+    for net16, _ in sorted_16s:
         if len(lines) >= MAX_LINES:
             break
-        lines.append(f"{net16}  # {count} /24s")
 
-    for net24, count in sorted_24s:
+        prefix = ".".join(str(net16.network_address).split(".")[:2])
+        lines.append(prefix)
+
+    # then remaining /24s
+    for net24, _ in sorted_24s:
         if len(lines) >= MAX_LINES:
             break
-        lines.append(f"{net24}  # {count} IPs")
+
+        prefix = ".".join(str(net24.network_address).split(".")[:3])
+        lines.append(prefix)
 
     OUTPUT_FILE.write_text("\n".join(lines) + "\n")
-
-    print(f"Wrote {len(lines)} entries to {OUTPUT_FILE}")
-
-if __name__ == "__main__":
-    main()
