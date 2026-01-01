@@ -27,19 +27,19 @@ SOURCES = [
     "https://iplists.firehol.org/files/ciarmy.ipset",
     "https://iplists.firehol.org/files/spamhaus_drop.netset",
     "https://iplists.firehol.org/files/et_block.netset",
-    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt"
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
     # add more sources here
 ]
 
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 50  # number of /24s in a /16 required to promote
+PROMOTE_THRESHOLD = 128  # number of /24s in a /16 required to promote
 
 # =========================
 # FETCH + PARSE
