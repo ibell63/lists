@@ -7,14 +7,10 @@ from pathlib import Path
 
 SOURCES = [
     "https://iplists.firehol.org/files/tor_exits_30d.ipset",
-    "https://iplists.firehol.org/files/tor_exits_7d.ipset",
     "https://iplists.firehol.org/files/tor_exits_1d.ipset",
-    "https://iplists.firehol.org/files/tor_exits.ipset",
     "https://iplists.firehol.org/files/socks_proxy_30d.ipset",
-    "https://iplists.firehol.org/files/socks_proxy_7d.ipset",
     "https://iplists.firehol.org/files/socks_proxy_1d.ipset",
     "https://iplists.firehol.org/files/sslproxies_30d.ipset",
-    "https://iplists.firehol.org/files/sslproxies_7d.ipset",
     "https://iplists.firehol.org/files/sslproxies_1d.ipset",
     "https://iplists.firehol.org/files/botscout_30d.ipset",
     "https://iplists.firehol.org/files/botscout_7d.ipset",
@@ -52,7 +48,7 @@ SOURCES = [
 
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 250
+PROMOTE_THRESHOLD = 205
 
 def fetch_ips(url):
     response = requests.get(url, timeout=30)
