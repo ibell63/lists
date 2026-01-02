@@ -36,6 +36,8 @@ SOURCES = [
     "https://iplists.firehol.org/files/ciarmy.ipset",
     "https://iplists.firehol.org/files/spamhaus_drop.netset",
     "https://iplists.firehol.org/files/et_block.netset",
+    "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
+    "https://iplists.firehol.org/files/myip.ipset",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt",
@@ -43,8 +45,6 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
-    "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
-    "https://iplists.firehol.org/files/myip.ipset",
     "https://report.cs.rutgers.edu/DROP/attackers"
 ]
 
