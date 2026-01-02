@@ -42,7 +42,8 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
-    "https://iplists.firehol.org/files/blocklist_net_ua.ipset"
+    "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
+    "https://report.cs.rutgers.edu/DROP/attackers"
 ]
 
 OUTPUT_FILE = Path("output/aggregated.txt")
