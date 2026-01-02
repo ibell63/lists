@@ -44,6 +44,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
     "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
+    "https://iplists.firehol.org/files/myip.ipset",
     "https://report.cs.rutgers.edu/DROP/attackers"
 ]
 
