@@ -50,7 +50,7 @@ SOURCES = [
 
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 205
+PROMOTE_THRESHOLD = 230
 
 def fetch_ips(url):
     response = requests.get(url, timeout=30)
