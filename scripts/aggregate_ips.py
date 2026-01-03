@@ -44,8 +44,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
-    "https://report.cs.rutgers.edu/DROP/attackers"
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
 ]
 
 OUTPUT_FILE = Path("output/aggregated.txt")
