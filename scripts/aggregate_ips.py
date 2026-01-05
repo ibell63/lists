@@ -7,7 +7,7 @@ from pathlib import Path
 
 SOURCES = [
     "https://iplists.firehol.org/files/tor_exits_30d.ipset",
-    "https://iplists.firehol.org/files/tor_exits_1d.ipset",
+    "https://iplists.firehol.org/files/tor_exits_7d.ipset",
     "https://iplists.firehol.org/files/tor_exits.ipset",
     "https://iplists.firehol.org/files/socks_proxy_30d.ipset",
     "https://iplists.firehol.org/files/socks_proxy_7d.ipset",
