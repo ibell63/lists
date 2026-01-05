@@ -20,6 +20,7 @@ SOURCES = [
     "https://iplists.firehol.org/files/botscout_30d.ipset",
     "https://iplists.firehol.org/files/botscout_7d.ipset",
     "https://iplists.firehol.org/files/botscout_1d.ipset",
+    "https://iplists.firehol.org/files/botscout.ipset",
     "https://iplists.firehol.org/files/sblam.ipset",
     "https://iplists.firehol.org/files/stopforumspam_365d.ipset",
     "https://iplists.firehol.org/files/stopforumspam_180d.ipset",
