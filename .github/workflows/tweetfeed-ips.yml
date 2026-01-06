@@ -1,0 +1,53 @@
+name: Ingest Tweetfeed IP IOCs
+
+on:
+  schedule:
+    # Daily is fine even for yearly/monthly feeds
+    - cron: "57 09 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Tweetfeed IP feeds
+        run: |
+          set -euo pipefail
+
+          mkdir -p iocs
+
+          declare -A FEEDS=(
+            ["week"]="https://api.tweetfeed.live/v1/week/ip"
+            ["month"]="https://api.tweetfeed.live/v1/month/ip"
+            ["year"]="https://api.tweetfeed.live/v1/year/ip"
+          )
+
+          for PERIOD in "${!FEEDS[@]}"; do
+            echo "Fetching $PERIOD feed..."
+
+            curl -s "${FEEDS[$PERIOD]}" \
+              | jq -r '.[].value' \
+              | sort -u \
+              > "iocs/tweetfeed_${PERIOD}ly_ips.txt"
+          done
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add iocs/tweetfeed_*_ips.txt
+          git commit -m "Update Tweetfeed IP IOCs (week/month/year)"
+          git push
