@@ -46,6 +46,7 @@ SOURCES = [
     "https://iplists.firehol.org/files/myip.ipset",
     "https://iplists.firehol.org/files/firehol_proxies.netset",
     "https://iplists.firehol.org/files/firehol_level2.netset",
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt",
