@@ -53,7 +53,10 @@ SOURCES = [
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt",
-    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_yearly_ips.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_monthly_ips.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt"
 ]
 
 OUTPUT_FILE = Path("output/aggregated.txt")
