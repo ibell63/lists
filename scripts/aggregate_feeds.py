@@ -50,7 +50,7 @@ SOURCES = [
     {
         "name": "ipsum_8",
         "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
-    },
+    }
   
 ]
 
