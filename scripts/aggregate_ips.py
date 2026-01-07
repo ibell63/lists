@@ -4,7 +4,7 @@ import ipaddress
 import requests
 from collections import Counter, defaultdict
 from pathlib import Path
-
+# Sources below are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
 SOURCES = [
     "https://iplists.firehol.org/files/tor_exits_30d.ipset",
     "https://iplists.firehol.org/files/tor_exits_7d.ipset",
@@ -71,7 +71,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/90d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/1d.txt"
 ]
-
+# Sources above are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
 PROMOTE_THRESHOLD = 230
