@@ -80,11 +80,11 @@ for source in SOURCES:
         out_file = source_dir / f"{label}.txt"
         out_file.write_text("\n".join(sorted(all_ips)) + "\n")
 
-    # Limit growth
-    MAX_RAW_DAYS = 100
+# Limit growth
+MAX_RAW_DAYS = 100
 
-    raw_files = sorted(raw_dir.glob("*.txt"))
+raw_files = sorted(raw_dir.glob("*.txt"))
 
-    if len(raw_files) > MAX_RAW_DAYS:
+if len(raw_files) > MAX_RAW_DAYS:
     for old_file in raw_files[:-MAX_RAW_DAYS]:
         old_file.unlink()
