@@ -59,7 +59,7 @@ SOURCES = [
 ]
 
 WINDOWS = {
-    "1d": 1,
+    "1d": 1, # normalized daily mirror of source feed
     "7d": 7,
     "30d": 30,
     "90d": 90
