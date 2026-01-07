@@ -65,7 +65,8 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/bds_atif/90d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/ciarmy/90d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/blocklist_de/90d.txt",
-    "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/90d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/1d.txt"
 ]
 
 OUTPUT_FILE = Path("output/aggregated.txt")
