@@ -54,6 +54,10 @@ SOURCES = [
     {
         "name": "threatView",
         "url": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
+    },
+    {
+        "name": "tor_exits",
+        "url": "https://iplists.firehol.org/files/tor_exits_1d.ipset"
     }
   
 ]
