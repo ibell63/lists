@@ -50,6 +50,10 @@ SOURCES = [
     {
         "name": "ipsum_8",
         "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
+    },
+    {
+        "name": "threatView",
+        "url": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
     }
   
 ]
