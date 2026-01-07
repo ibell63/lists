@@ -11,13 +11,17 @@ SOURCES = [
         "name": "ciarmy",
         "url": "https://iplists.firehol.org/files/ciarmy.ipset"
     },
-  {
+    {
         "name": "bds_atif",
         "url": "https://iplists.firehol.org/files/bds_atif.ipset"
     },
     {
         "name": "blocklist_de",
         "url": "https://iplists.firehol.org/files/blocklist_de.ipset"
+    },
+    {
+        "name": "ipsum_2",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt"
     }
   
 ]
