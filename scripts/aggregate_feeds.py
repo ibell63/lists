@@ -15,6 +15,10 @@ SOURCES = [
         "name": "bds_atif",
         "url": "https://iplists.firehol.org/files/bds_atif.ipset"
     }
+    {
+        "name": "blocklist_de",
+        "url": "https://iplists.firehol.org/files/blocklist_de.ipset"
+    }
   
 ]
 
