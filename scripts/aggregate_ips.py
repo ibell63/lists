@@ -39,7 +39,6 @@ SOURCES = [
     "https://iplists.firehol.org/files/et_compromised.ipset",
     "https://iplists.firehol.org/files/greensnow.ipset",
     "https://iplists.firehol.org/files/bds_atif.ipset",
-    "https://iplists.firehol.org/files/ciarmy.ipset",
     "https://iplists.firehol.org/files/spamhaus_drop.netset",
     "https://iplists.firehol.org/files/et_block.netset",
     "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
@@ -57,6 +56,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_yearly_ips.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_monthly_ips.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/ciarmy/90d.txt",
     "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
 ]
 
