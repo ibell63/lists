@@ -20,9 +20,37 @@ SOURCES = [
         "url": "https://iplists.firehol.org/files/blocklist_de.ipset"
     },
     {
+        "name": "ipsum_1",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt"
+    },
+    {
         "name": "ipsum_2",
         "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt"
-    }
+    },
+    {
+        "name": "ipsum_3",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt"
+    },
+    {
+        "name": "ipsum_4",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt"
+    },
+    {
+        "name": "ipsum_5",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt"
+    },
+    {
+        "name": "ipsum_6",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt"
+    },
+    {
+        "name": "ipsum_7",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt"
+    },
+    {
+        "name": "ipsum_8",
+        "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt"
+    },
   
 ]
 
@@ -81,7 +109,7 @@ for source in SOURCES:
         out_file.write_text("\n".join(sorted(all_ips)) + "\n")
 
     # --- Limit growth per feed ---
-    MAX_RAW_DAYS = 192
+    MAX_RAW_DAYS = 200
     raw_files = sorted(raw_dir.glob("*.txt"))
     if len(raw_files) > MAX_RAW_DAYS:
         for old_file in raw_files[:-MAX_RAW_DAYS]:
