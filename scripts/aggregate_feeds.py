@@ -9,7 +9,7 @@ BASE_DIR = Path("aggregated")
 SOURCES = [
     {
         "name": "ciarmy",
-        "url": "https://cinsscore.com/list/ci-badguys.txt"
+        "url": "https://iplists.firehol.org/files/ciarmy.ipset"
     },
   {
         "name": "bds_atif",
