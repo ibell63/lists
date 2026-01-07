@@ -1,4 +1,5 @@
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Abandoned-orange.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+# Update 1-07-2026 The previously manually updated lists in this repo are not updated anymore but I am using github actions in this repo to generate and aggregate various threat intelligence lists. The old, inactive lists will be deleted, soon.  I am leaving the "not maintained" tag on the repo until after I clean things up.
 # Update 8-16-2024 I do not update these lists anymore because I do not use them anymore.
 # Update 2-25-2023: The list called "paranoid" is no longer that.  It's now used on a device that is to have normal blocking.  For a more paranoid list, use the generic filter.list, instead.
 
