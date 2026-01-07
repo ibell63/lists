@@ -29,7 +29,6 @@ SOURCES = [
     "https://iplists.firehol.org/files/stopforumspam_30d.ipset",
     "https://iplists.firehol.org/files/stopforumspam_7d.ipset",
     "https://iplists.firehol.org/files/stopforumspam_1d.ipset",
-    "https://iplists.firehol.org/files/blocklist_de.ipset",
     "https://iplists.firehol.org/files/blocklist_de_strongips.ipset",
     "https://iplists.firehol.org/files/bruteforceblocker.ipset",
     "https://iplists.firehol.org/files/dshield_30d.netset",
@@ -57,6 +56,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/bds_atif/90d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/ciarmy/90d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/blocklist_de/90d.txt",
     "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
 ]
 
