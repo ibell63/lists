@@ -90,10 +90,6 @@ SOURCES = [
     {
         "name": "et_compromised",
         "url": "https://iplists.firehol.org/files/et_compromised.ipset"
-    },
-    {
-        "name": "myip",
-        "url": "https://iplists.firehol.org/files/myip.ipset"
     }
   
 ]
