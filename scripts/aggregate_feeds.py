@@ -90,6 +90,10 @@ SOURCES = [
     {
         "name": "et_compromised",
         "url": "https://iplists.firehol.org/files/et_compromised.ipset"
+    },
+    {
+        "name": "hagezi_tif_ips",
+        "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/ips/tif.txt"
     }
   
 ]
