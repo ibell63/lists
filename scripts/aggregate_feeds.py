@@ -70,6 +70,30 @@ SOURCES = [
     {
         "name": "sslproxies",
         "url": "https://iplists.firehol.org/files/sslproxies_1d.ipset"
+    },
+    {
+        "name": "botscout",
+        "url": "https://iplists.firehol.org/files/botscout_1d.ipset"
+    },
+    {
+        "name": "sblam",
+        "url": "https://iplists.firehol.org/files/sblam.ipset"
+    },
+    {
+        "name": "blocklist_de_strongips",
+        "url": "https://iplists.firehol.org/files/blocklist_de_strongips.ipset"
+    },
+    {
+        "name": "bruteforceblocker",
+        "url": "https://iplists.firehol.org/files/bruteforceblocker.ipset"
+    },
+    {
+        "name": "et_compromised",
+        "url": "https://iplists.firehol.org/files/et_compromised.ipset"
+    },
+    {
+        "name": "myip",
+        "url": "https://iplists.firehol.org/files/myip.ipset"
     }
   
 ]
