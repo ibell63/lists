@@ -58,6 +58,18 @@ SOURCES = [
     {
         "name": "tor_exits",
         "url": "https://iplists.firehol.org/files/tor_exits_1d.ipset"
+    },
+    {
+        "name": "dshield",
+        "url": "https://iplists.firehol.org/files/dshield_1d.netset"
+    },
+    {
+        "name": "socks_proxy",
+        "url": "https://iplists.firehol.org/files/socks_proxy_1d.ipset"
+    },
+    {
+        "name": "sslproxies",
+        "url": "https://iplists.firehol.org/files/sslproxies_1d.ipset"
     }
   
 ]
