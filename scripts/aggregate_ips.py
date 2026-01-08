@@ -67,7 +67,9 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/blocklist_de/7d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/blocklist_de/1d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/7d.txt",
-    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/1d.txt"
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/1d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/7d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/1d.txt"
 ]
 # Sources above are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
 OUTPUT_FILE = Path("output/aggregated.txt")
