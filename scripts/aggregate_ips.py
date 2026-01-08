@@ -71,7 +71,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/ipsum_8/1d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_yearly_ips.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_monthly_ips.txt",
-    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/tweetfeed/1d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/bds_atif/30d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/bds_atif/7d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/bds_atif/1d.txt",
