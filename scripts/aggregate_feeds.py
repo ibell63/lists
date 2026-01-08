@@ -94,6 +94,10 @@ SOURCES = [
     {
         "name": "hagezi_tif_ips",
         "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/ips/tif.txt"
+    },
+    {
+        "name": "tweetfeed",
+        "url": "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt"
     }
   
 ]
