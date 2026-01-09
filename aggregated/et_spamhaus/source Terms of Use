@@ -1,0 +1,48 @@
+Spamhaus Don't Route Or Peer Lists Terms of Use
+These Terms of Use (“Terms”) set out important information about the Spamhaus DROP (Don’t Route or Peer) lists (“DROP Lists”). Please read it carefully as it affects your rights and liabilities under the law. If you do not agree with these Terms, please do not use the DROP lists. By using the Drop Lists you agree to be bound by these Terms.
+
+1. DROP Lists
+1.1 Spamhaus Don’t Route or Peer List (DROP)
+
+The DROP list will not include any IP address space under the control of any legitimate network - even if being used by persistent and well-known spammers. DROP will only include net-blocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
+
+1.2 Spamhaus IPv6 DROP List (DROPv6)
+
+The DROPv6 list includes IPv6 ranges allocated to spammers or cyber criminals. DROPv6 will only include IPv6 net-blocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
+
+1.3 Spamhaus ASN DROP List (ASN-DROP)
+
+ASN-DROP contains a list of Autonomous System Numbers controlled by spammers or cyber criminals, as well as "hijacked" ASNs. ASN-DROP can be used to filter BGP routes which are being used for malicious purposes.
+
+2. Use of DROP Lists
+2.1 The DROP Lists are provided to you free of charge subject to these Terms.
+
+2.2 The Spamhaus DROP Lists are advisory "drop all traffic" lists, consisting of net-blocks that are "hijacked" or leased by professional spam or cyber-crime operations (used for dissemination of malware, trojan downloaders, botnet controllers). The DROP lists are a tiny subset of the SBL, designed for use by firewalls and routing equipment to filter out the malicious traffic from these net-blocks.
+
+2.3 We may update these Terms from time to time for legal or regulatory reasons. Any changes will be notified to you via our website. It is your responsibility to review these Terms from time to time and comply with them on an ongoing basis. The changes will apply to the use of the DROP Lists immediately after we have updated these Terms. If you do not wish to accept the new Terms you should not continue to use the DROP Lists. If you continue to use the Drop Lists after the date on which the change comes into effect, your use of the DROP Lists indicate your agreement to be bound by the new Terms.
+
+3. Intellectual property
+3.1 The content of the DROP List is protected by copyright and database right. Nothing in these Terms shall be construed as granting an assignment or licence of any intellectual property rights in the DROP Lists. The Spamhaus Technology name (including its variations, allusions and iterations) is protected by trade mark and the laws of passing-off.
+
+3.2 YOU MAY UNDER NO CIRCUMSTANCES USE OR PERMIT ANY THIRD PARTY TO USE THE ‘SPAMHAUS’ NAME (INCLUDING ANY VARIATIONS, ALLUSIONS OR ITERATIONS OF THE ‘SPAMHAUS’ NAME OR ANY REFERENCE TO THE ‘SPAMHAUS DATA’) IN YOUR MARKETING, PROMOTIONAL OR ANY OTHER COMMERCIAL MATERIALS.
+
+3.3 We reserve the right in our absolute discretion to revoke your right to use the DROP Lists for any reason including in particular (but without limitation) any breach of this section 3.
+
+4. Availability
+4.1 We cannot promise that the DROP Lists will be fault-free. If a fault occurs we will attempt to correct the fault as soon as we can. Your access to the DROP Lists may be occasionally restricted to allow for updates. We will attempt to restore access as soon as we reasonably can.
+
+4.2 Almost all allocations change over time. Please check regularly to ensure you have the latest version of the DROP lists. They should not be imported into your networks filters without subsequent reviews. If you do not keep this type of filter data up to date, you will encounter errors when allocations listed in an old version of the DROP lists get reassigned to new networks.
+
+5. Liability
+5.1 The DROP Lists are provided on a free-of-charge basis and accordingly you agree that we shall have no liability to you for any losses to you caused by your use of the DROP Lists.
+
+5.2 This section 5 shall not limit or affect our liability if something we do negligently causes death or personal injury.
+
+6. Implementation
+6.1 When implemented in a network or ISP's 'core routers', the Spamhaus DROP lists will help protect the network's users from spamming, scanning, harvesting, DNS-hijacking and DDoS attacks originating on rogue net-blocks.
+
+6.2 Spamhaus strongly encourages the use of the DROP lists by tier-1s and backbones.
+
+6.3 Spamhaus DROP lists are available in text format. Additionally, these lists (as well as the Spamhaus Botnet C&C list) are available by the Spamhaus BGP Feed announced via an Autonomous System Number (ASN). Users can choose to peer with that ASN to null those prefixes as being ranges for which they do not wish to route traffic.
+
+See the DROP FAQ for more information. If you are using the Spamhaus Public Mirrors, terms apply.
