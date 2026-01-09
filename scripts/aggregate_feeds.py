@@ -118,6 +118,10 @@ SOURCES = [
     {
         "name": "dm_tor_full",
         "url": "https://www.dan.me.uk/torlist/?full"
+    },
+    {
+        "name": "rutgers_DROP",
+        "url": "https://report.cs.rutgers.edu/DROP/attackers"
     }
   
 ]
