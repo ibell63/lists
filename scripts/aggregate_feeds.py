@@ -110,6 +110,14 @@ SOURCES = [
     {
         "name": "et_tor",
         "url": "https://iplists.firehol.org/files/et_tor.ipset"
+    },
+    {
+        "name": "dm_tor_exit",
+        "url": "https://www.dan.me.uk/torlist/?exit"
+    },
+    {
+        "name": "dm_tor_full",
+        "url": "https://www.dan.me.uk/torlist/?full"
     }
   
 ]
