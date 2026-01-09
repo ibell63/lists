@@ -122,6 +122,10 @@ SOURCES = [
     {
         "name": "rutgers_DROP",
         "url": "https://report.cs.rutgers.edu/DROP/attackers"
+    },
+    {
+        "name": "spamhaus_drop",
+        "url": "https://iplists.firehol.org/files/spamhaus_drop.netset"
     }
   
 ]
