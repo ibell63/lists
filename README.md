@@ -2,10 +2,13 @@
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/ibell63/lists">
 
-# Update 1-07-2026 The previously manually updated lists in this repo are not updated anymore but I am using github actions in this repo to generate and aggregate various threat intelligence lists. The old, inactive lists will be deleted, soon.
-# Update 8-16-2024 I do not update these lists anymore because I do not use them anymore.
+# Lists contains various domain and IP threat intelligence lists with various logic, aggregation, and filtration applied to them.  For the time being, this repo is largely unstructured and has a mixture of stale and current data relating to several different projects. I will write more detailed information in this readme and format it better at a later date.
+
+# At this point, this repo is not really intended for the use of anyone but myself, but anyone that wants to use it may do so.  The lists may or may not be updated over time and no guarantees or assertions are made about the quality of the data or fitness for any purpose.
+
+# Update 1-09-2026: This repository should be considered pre-production because the daily aggregated feeds will not be fully populated until at least April 2026.  Please keep in mind until then that the longer aggergation periods only reflect data that has been collected.  Look at the earliest file in the raw subfolder for that feed to see when the data starts.  The earliest collection dates are in January 2026.
+# Update 1-07-2026: The previously manually updated lists in this repo are not updated anymore but I am using github actions in this repo to generate and aggregate various threat intelligence lists. The old, inactive lists will be deleted, soon.
+
+# Below are old (pre-2026) updates relating to data that will soon be removed.  Any files in this repository from before 2026 will eventually be removed, please do not link to them.
+# Update 8-16-2024: I do not update these lists anymore because I do not use them anymore.
 # Update 2-25-2023: The list called "paranoid" is no longer that.  It's now used on a device that is to have normal blocking.  For a more paranoid list, use the generic filter.list, instead.
-
-# Lists contains various domain and IP black / white lists.  I also used to maintain a rolling set of the last 10 days of registered domains, however I have discontinued that and those lists will now have one placeholder domain.  The work involved well outweighed the benefit in my opinion.
-
-# At this point, this repo is not really intended for the use of anyone but myself, but anyone that wants to use it may do so.  The lists may or may not be updated over time.
