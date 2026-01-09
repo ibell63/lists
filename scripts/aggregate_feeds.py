@@ -98,6 +98,18 @@ SOURCES = [
     {
         "name": "tweetfeed",
         "url": "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/iocs/tweetfeed_weekly_ips.txt"
+    },
+    {
+        "name": "et_block",
+        "url": "https://iplists.firehol.org/files/et_block.netset"
+    },
+    {
+        "name": "et_spamhaus",
+        "url": "https://iplists.firehol.org/files/et_spamhaus.netset"
+    },
+    {
+        "name": "et_tor",
+        "url": "https://iplists.firehol.org/files/et_tor.ipset"
     }
   
 ]
