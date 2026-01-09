@@ -40,8 +40,12 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_compromised/30d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_compromised/7d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_compromised/1d.txt",
-    "https://iplists.firehol.org/files/spamhaus_drop.netset",
-    "https://iplists.firehol.org/files/et_block.netset",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_spamhaus/30d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_spamhaus/7d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_spamhaus/1d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_block/30d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_block/7d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/et_block/1d.txt",
     "https://iplists.firehol.org/files/blocklist_net_ua.ipset",
     "https://iplists.firehol.org/files/firehol_proxies.netset",
     "https://iplists.firehol.org/files/firehol_level2.netset",
@@ -86,7 +90,10 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/threatView/1d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/30d.txt",
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/7d.txt",
-    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/1d.txt"
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/hagezi_tif_ips/1d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/rutgers_DROP/30d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/rutgers_DROP/7d.txt",
+    "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/rutgers_DROP/1d.txt"
 ]
 # Sources above are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
 OUTPUT_FILE = Path("output/aggregated.txt")
