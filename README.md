@@ -1,6 +1,6 @@
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ibell63/lists"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ibell63/lists"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/ibell63/lists">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ibell63/lists"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ibell63/lists"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/ibell63/lists">
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/ibell63/lists">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ibell63/lists"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ibell63/lists">
 
 # Lists contains various domain and IP threat intelligence lists with various logic, aggregation, and filtration applied to them.  For the time being, this repo is largely unstructured and has a mixture of stale and current data relating to several different projects. I will write more detailed information in this readme and format it better at a later date.
 
