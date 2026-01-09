@@ -98,7 +98,7 @@ SOURCES = [
 # Sources above are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
 OUTPUT_FILE = Path("output/aggregated.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 230
+PROMOTE_THRESHOLD = 205
 
 def fetch_ips(url):
     response = requests.get(url, timeout=30)
