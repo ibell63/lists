@@ -17,7 +17,7 @@ jobs:
         run: |
           curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/tif.txt"  -o tif.txt
           curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt" -o nrd7.txt
-          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga30.txt" -o dga30.txt
+          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt" -o dga30.txt
 
       - name: Download Majestic Million
         run: |
