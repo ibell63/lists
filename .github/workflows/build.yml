@@ -17,7 +17,6 @@ jobs:
         run: |
           curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/tif.txt"  -o tif.txt
           curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt" -o nrd7.txt
-          curl -L "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/dga30.txt" -o dga30.txt
 
       - name: Download Majestic Million
         run: |
@@ -31,7 +30,7 @@ jobs:
 
       - name: Run filter
         run: |
-          python3 filter.py tif.txt nrd7.txt dga30.txt top-1m.csv filtered.txt
+          python3 filter.py tif.txt nrd7.txt top-1m.csv filtered.txt
 
       - name: Commit results
         run: |
