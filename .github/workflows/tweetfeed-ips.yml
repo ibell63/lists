@@ -3,7 +3,7 @@ name: Ingest Tweetfeed IP IOCs
 on:
   schedule:
     # Daily is fine even for yearly/monthly feeds
-    - cron: "06 06 * * *"
+    - cron: "50 23 * * *"
   workflow_dispatch:
 
 permissions:
