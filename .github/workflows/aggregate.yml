@@ -2,7 +2,7 @@ name: Aggregate IP Feeds
 
 on:
   schedule:
-    - cron: "29 05 * * *"
+    - cron: "59 04 * * *"
   workflow_dispatch:
 
 permissions:
