@@ -1,5 +1,7 @@
 PLEASE DO NOT LINK TO THE FILES IN THIS REPOSITORY.
+
 <img alt="Maintenance" src="https://img.shields.io/maintenance/doomed%20to%20fail/2026?color=red">
+
 I WILL LIKELY BE REDOING THIS ENTIRE PROJECT BECAUSE THE REPO SIZE WILL RUNAWAY WITHOUT INTERVENTION.
 
 This means that everything will likely change and this whole thing is an experiment that will probably go away or stop being updated, soon.
