@@ -1,6 +1,6 @@
 PLEASE DO NOT LINK TO THE FILES IN THIS REPOSITORY.
 
-<img alt="Maintenance" src="https://img.shields.io/maintenance/doomed%20to%20fail/2026?color=red&cacheSeconds=43200">
+<img alt="Maintenance" src="https://img.shields.io/maintenance/doomed%20to%20fail/2026?color=red&cacheSeconds=86400">
 
 I WILL LIKELY BE REDOING THIS ENTIRE PROJECT BECAUSE THE REPO SIZE WILL RUNAWAY WITHOUT INTERVENTION.
 
@@ -12,10 +12,10 @@ This means that everything will likely change and this whole thing is an experim
 
 Current maximum number of days available to be aggregated for oldest feeds:
 
-<img alt="GitHub repo file or directory count (in path)" src="https://img.shields.io/github/directory-file-count/ibell63/lists/aggregated%2Fipsum_3%2Fraw?label=days&cacheSeconds=43200">
+<img alt="GitHub repo file or directory count (in path)" src="https://img.shields.io/github/directory-file-count/ibell63/lists/aggregated%2Fipsum_3%2Fraw?label=days&cacheSeconds=21600">
 IPsum level 1 - 90 day size:
 
-<img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/ibell63/lists/aggregated%2Fipsum_1%2F90d.txt?cacheSeconds=43200">
+<img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/ibell63/lists/aggregated%2Fipsum_1%2F90d.txt?cacheSeconds=21600">
 
 # Lists contains various domain and IP threat intelligence lists with various logic, aggregation, and filtration applied to them.  For the time being, this repo is largely unstructured and has a mixture of stale and current data relating to several different projects. I will write more detailed information in this readme and format it better at a later date.
 
