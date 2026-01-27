@@ -8,7 +8,7 @@ This means that everything will likely change and this whole thing is an experim
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/ibell63/lists?cacheSeconds=21600">
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ibell63/lists?cacheSeconds=21600">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/ibell63/lists?cacheSeconds=86400"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ibell63/lists?cacheSeconds=21600"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/ibell63/lists?cacheSeconds=21600">
 
 Current maximum number of days available to be aggregated for oldest feeds:
 
