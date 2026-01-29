@@ -22,9 +22,12 @@ jobs:
         run: |
           pip install requests
 
-      - name: Run aggregation
+      - name: Run aggregation (240)
         run: |
           python scripts/aggregate_ips.py
+      
+      - name: Run aggregation (205)
+        run: |
           python scripts/aggregate_ips_205_80.py
 
       - name: Commit results
