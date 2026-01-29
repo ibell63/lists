@@ -35,5 +35,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add output/aggregated.txt
+          git add output/aggregated_205_80.txt
           git commit -m "Update aggregated IP list" || exit 0
           git push
