@@ -115,9 +115,9 @@ SOURCES = [
     "https://raw.githubusercontent.com/ibell63/lists/refs/heads/master/aggregated/rutgers_DROP/1d.txt"
 ]
 # Sources above are intentionally duplicated with aggregation for the purposes of adding recency bias and consensus based weighting.
-OUTPUT_FILE = Path("output/aggregated.txt")
+OUTPUT_FILE = Path("output/aggregated_205_80.txt")
 MAX_LINES = 10_000
-PROMOTE_THRESHOLD = 240
+PROMOTE_THRESHOLD = 205
 
 def fetch_ips(url):
     response = requests.get(url, timeout=30)
