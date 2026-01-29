@@ -25,6 +25,7 @@ jobs:
       - name: Run aggregation
         run: |
           python scripts/aggregate_ips.py
+          python scripts/aggregate_ips_205_80.py
 
       - name: Commit results
         run: |
