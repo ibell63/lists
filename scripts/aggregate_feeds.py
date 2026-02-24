@@ -186,7 +186,7 @@ for source in SOURCES:
         out_file.write_text("\n".join(sorted(all_ips)) + "\n")
 
     # --- Limit growth per feed ---
-    MAX_RAW_DAYS = 100
+    MAX_RAW_DAYS = 90
     raw_files = sorted(raw_dir.glob("*.txt"))
     if len(raw_files) > MAX_RAW_DAYS:
         for old_file in raw_files[:-MAX_RAW_DAYS]:
