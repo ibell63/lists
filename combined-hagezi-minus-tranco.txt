@@ -1,3 +1,3 @@
-package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.271.34796/domains/dga14.txt instead.
-package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.271.34796/domains/nrd7.txt instead.
-package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.271.34796/domains/tif.txt instead.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.272.34454/domains/dga14.txt instead.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.272.34454/domains/nrd7.txt instead.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.272.34454/domains/tif.txt instead.
