@@ -1,18 +1,3 @@
-"http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
-<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en"
-</body>
-</head>
-</html>
-<?xml version="1.0" encoding="utf-8"?>
-<body>
-<h1>error 503 first byte timeout</h1>
-<h3>error 54113</h3>
-<head>
-<hr>
-<html>
-<p>details: cache-iad-kcgs7200039-iad 1792068948 1440861509</p>
-<p>details: cache-iad-kcgs7200162-iad 1792069073 1755784696</p>
-<p>first byte timeout</p>
-<p>varnish cache server</p>
-<title>503 first byte timeout</title>
-failed to fetch hagezi/dns-blocklists@latest from github. reason: bad gateway.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.289.37028/domains/dga14.txt instead.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.289.37028/domains/nrd7.txt instead.
+package size exceeded the configured limit of 150 mb. try https://github.com/hagezi/dns-blocklists/tree/37522026.289.37028/domains/tif.txt instead.
